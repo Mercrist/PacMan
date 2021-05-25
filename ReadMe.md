@@ -2,7 +2,7 @@
 
 ![C++ Ver][1] ![OF Ver][2]
 
-Pac-Man game written and coded in C++ using the _OpenFrameWorks_ library for the college level course _Advanced Programming/ICOM-4015._ The player controls Pac-Man and must attempt to eat all of the white dots on the screen while dodging the incoming ghosts. The base game has been enhanced with added ghosts and power ups.
+Pac-Man game written and coded in C++ using the _OpenFrameWorks_ library. The player controls Pac-Man and must attempt to eat all of the white dots on the screen while dodging the incoming ghosts. The base game has been enhanced with added ghosts and power ups.
 
 ![Gameplay][3]
 
