@@ -25,7 +25,7 @@ Pac-Man game written and coded in C++ using the _OpenFrameWorks_ library. The pl
 | ![InvincinbilityPowerUp][5] | When activated, for a brief amount of steps, makes Pac-Man invincible and invisible so that he may dodge any incoming ghosts. Can't be activated if Pac-Man is too close to a ghost. Pac-Man gains this Power Up when a _Peek A Boo_ ghost is eaten.|
 
 ## Downloading and running
-After downloading and extracting `bin.rar` from the [releases][4] page, double
+After downloading and extracting `bin.rar` from the [releases][6] page, double
 click on the exectuable to run the program.
 
 [1]: https://img.shields.io/badge/gcc-10.2.0-red
